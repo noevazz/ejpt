@@ -1,5 +1,9 @@
 # Passive Information Gathering
 
+## Recommended Resources
+
+- https://digi.ninja/projects/zonetransferme.php
+
 ## Getting The Ip Address Of A Domain
 
 ```
@@ -68,7 +72,7 @@ As you can see ` /wp-content/uploads/wpo/wpo-plugins-tables-list.json` is disabl
 
 In short, it’s like a map for search engines to understand your site’s structure and content.
 
-![](../img/sitemap.png)
+![](../../img/sitemap.png)
 
 > https://hackersploit.org/sitemap_index.xml
 
@@ -295,3 +299,16 @@ Name Server: NS2.EXAMPLE-HOSTING.COM
 This means that when someone looks up example.com, the DNS system will eventually query ns1.example-hosting.com or ns2.example-hosting.com to get the domain’s actual records.
 
 So when you provide the domain name in the whois command, the output is showing you the name servers registered with the domain registrar—these are not the whois servers themselves, but rather the DNS servers that currently hold the authoritative zone for that domain.
+
+## Netcraft
+
+
+http://sitereport.netcraft.com/
+
+
+The Netcraft Site Report is a tool that gives you a detailed profile of any website https://sitereport.netcraft.com/?url=https://hackersploit.org
+
+
+
+## DNS Recognizance
+
